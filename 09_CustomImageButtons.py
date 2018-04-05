@@ -5,7 +5,7 @@ class iFrame(wx.Frame):
         wx.Frame.__init__(self, parent, id, 'App Tester', size=(300,200))
         panel = wx.Panel(self)
 
-        pic = wx.Bitmap('test.jpg'))
+        pic = wx.Bitmap('test.png')
         self.button = wx.BitmapButton(panel, -1, pic, pos=(10,10))
         self.button.SetDefault()
 

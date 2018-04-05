@@ -27,7 +27,7 @@ class TaskBarIcon(wx.adv.TaskBarIcon):
         return menu
 
     def set_icon(self, path):
-        icon = wx.Icon("image.jpg")
+        icon = wx.Icon("test.png")
         self.SetIcon(icon, TRAY_TOOLTIP)
 
     def on_left_down(self, event):
