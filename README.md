@@ -2,7 +2,7 @@
 
 # WxPython Samples
 
-WxPython Examples for Python3
+WxPython Samples for Python3
 
 ### Getting Started
 
