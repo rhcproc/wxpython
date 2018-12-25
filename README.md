@@ -4,7 +4,7 @@
 
 WxPython Examples for Python3
 
-## Getting Started
+### Getting Started
 
 This project is a collection of samples related to WxPython. We have categorized each sample so that we can easily develop WxPython in a Python3 environment. Please check the reference URL for a little more detail.
 
